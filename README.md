@@ -1,4 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
+# Custom Shell
+A custom shell like Bash using C with support for various shell operations, built as part of the OSN 2023 Course. For more details visit the [course page](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1)
+
 # Description
 
 - Use `make` to build an executable, then run `./a.out` to start shell.
